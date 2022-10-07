@@ -1,9 +1,9 @@
 import './feed.css'
 
 function Feed() {
-  return (
-    <div>Feed</div>
-  )
+    return (
+        <div className='feed'>Feed</div>
+    )
 }
 
 export default Feed
