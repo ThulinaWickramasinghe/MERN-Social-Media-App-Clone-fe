@@ -13,6 +13,7 @@ import {
 } from '@mui/icons-material'
 import { Users } from '../../dummyData'
 import CloseFriend from '../closeFriend/CloseFriend'
+
 function Sidebar() {
     return (
         <div className='sidebar'>
